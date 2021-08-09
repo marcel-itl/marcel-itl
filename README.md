@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcel-itl
-- 👀 I’m interested in powershell, python
+- 👀 I’m interested in powershell, python (mostly functional programming)
 - 📫 How to reach me:<br>
     mail: marcel@it-logic.pl<br>
     mail2: redkygosc@gmail.com
