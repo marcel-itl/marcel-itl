@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @marcel-itl
+- 👀 I’m interested in powershell, python
+- 📫 How to reach me:
+    mail: marcel@it-logic.pl
+    mail2: redkygosc@gmail.com
+
+<!---
+marcel-itl/marcel-itl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
